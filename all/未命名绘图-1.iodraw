@@ -1,0 +1,146 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" version="24.7.17">
+  <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
+    <mxGraphModel dx="1002" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="mJHqv84FvjhZxE39gfbW-1" value="用户" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="20" y="20" width="150" height="1251" as="geometry" />
+        </mxCell>
+        <mxCell id="mJHqv84FvjhZxE39gfbW-2" value="前端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="758" y="20" width="150" height="1251" as="geometry" />
+        </mxCell>
+        <mxCell id="mJHqv84FvjhZxE39gfbW-3" value="后端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="1414" y="20" width="150" height="1251" as="geometry" />
+        </mxCell>
+        <mxCell id="mJHqv84FvjhZxE39gfbW-4" value="数据库" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="1847" y="20" width="150" height="1251" as="geometry" />
+        </mxCell>
+        <mxCell id="mJHqv84FvjhZxE39gfbW-5" value="alt" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=30" vertex="1" parent="1">
+          <mxGeometry x="84" y="371" width="760" height="101" as="geometry" />
+        </mxCell>
+        <mxCell id="mJHqv84FvjhZxE39gfbW-6" value="[密码格式错误]" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="mJHqv84FvjhZxE39gfbW-5">
+          <mxGeometry x="30" width="730" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mJHqv84FvjhZxE39gfbW-7" value="alt" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=30" vertex="1" parent="1">
+          <mxGeometry x="84" y="728" width="1849" height="448" as="geometry" />
+        </mxCell>
+        <mxCell id="mJHqv84FvjhZxE39gfbW-8" value="[原密码错误]" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="mJHqv84FvjhZxE39gfbW-7">
+          <mxGeometry x="30" width="1819" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mJHqv84FvjhZxE39gfbW-9" value="[原密码正确]" style="shape=line;dashed=1;whiteSpace=wrap;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;strokeColor=#B3B3B3;" vertex="1" parent="mJHqv84FvjhZxE39gfbW-7">
+          <mxGeometry y="106" width="1849" height="3" as="geometry" />
+        </mxCell>
+        <mxCell id="mJHqv84FvjhZxE39gfbW-10" value="发起修改密码请求(Initiate Password Modification Request)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;" edge="1" parent="1" source="mJHqv84FvjhZxE39gfbW-1" target="mJHqv84FvjhZxE39gfbW-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="474" y="129" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mJHqv84FvjhZxE39gfbW-11" value="展示修改密码界面 (Display Password Modification Interface)" style="curved=1;endArrow=none;rounded=0;" edge="1" parent="1" source="mJHqv84FvjhZxE39gfbW-2" target="mJHqv84FvjhZxE39gfbW-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="884" y="183" />
+              <mxPoint x="884" y="213" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mJHqv84FvjhZxE39gfbW-12" value="输入原密码、新密码、确认新密码(Enter Old Password, New Password, Confirm New Password)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;" edge="1" parent="1" source="mJHqv84FvjhZxE39gfbW-1" target="mJHqv84FvjhZxE39gfbW-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="474" y="267" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mJHqv84FvjhZxE39gfbW-13" value="前端验证密码格式(Front-End Password Format Verification)" style="curved=1;endArrow=none;rounded=0;" edge="1" parent="1" source="mJHqv84FvjhZxE39gfbW-2" target="mJHqv84FvjhZxE39gfbW-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="884" y="321" />
+              <mxPoint x="884" y="351" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mJHqv84FvjhZxE39gfbW-14" value="提示密码格式错误(若不通过) (&quot;Prompt Password Format Error (if not passed)&quot;)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;dashed=1;dashPattern=2 3;" edge="1" parent="1" source="mJHqv84FvjhZxE39gfbW-2" target="mJHqv84FvjhZxE39gfbW-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="474" y="452" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mJHqv84FvjhZxE39gfbW-15" value="发送密码修改请求 (Send Password Modification Request)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;" edge="1" parent="1" source="mJHqv84FvjhZxE39gfbW-2" target="mJHqv84FvjhZxE39gfbW-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1171" y="516" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mJHqv84FvjhZxE39gfbW-16" value="查询用户原密码(Query User&#39;s Old Password)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;" edge="1" parent="1" source="mJHqv84FvjhZxE39gfbW-3" target="mJHqv84FvjhZxE39gfbW-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1716" y="570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mJHqv84FvjhZxE39gfbW-17" value="返回原密码(Return Old Password)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;dashed=1;dashPattern=2 3;" edge="1" parent="1" source="mJHqv84FvjhZxE39gfbW-4" target="mJHqv84FvjhZxE39gfbW-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1716" y="624" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mJHqv84FvjhZxE39gfbW-18" value="验证原密码是否正确(Verify if the Old Password is Correct)" style="curved=1;endArrow=none;rounded=0;" edge="1" parent="1" source="mJHqv84FvjhZxE39gfbW-3" target="mJHqv84FvjhZxE39gfbW-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1540" y="678" />
+              <mxPoint x="1540" y="708" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mJHqv84FvjhZxE39gfbW-19" value="返回原密码错误信息(若不正确) (&quot;Return Old Password Error Message (if incorrect)&quot;)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;dashed=1;dashPattern=2 3;" edge="1" parent="1" source="mJHqv84FvjhZxE39gfbW-3" target="mJHqv84FvjhZxE39gfbW-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1171" y="809" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mJHqv84FvjhZxE39gfbW-20" value="对新密码进行加密处理(Encrypt the New Password)" style="curved=1;endArrow=none;rounded=0;" edge="1" parent="1" source="mJHqv84FvjhZxE39gfbW-3" target="mJHqv84FvjhZxE39gfbW-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1540" y="910" />
+              <mxPoint x="1540" y="940" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mJHqv84FvjhZxE39gfbW-21" value="更新数据库中的密码(Update Password in Database)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;" edge="1" parent="1" source="mJHqv84FvjhZxE39gfbW-3" target="mJHqv84FvjhZxE39gfbW-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1716" y="994" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mJHqv84FvjhZxE39gfbW-22" value="返回更新结果(Return Update Result)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;dashed=1;dashPattern=2 3;" edge="1" parent="1" source="mJHqv84FvjhZxE39gfbW-4" target="mJHqv84FvjhZxE39gfbW-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1716" y="1048" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mJHqv84FvjhZxE39gfbW-23" value="返回修改结果(Return Modification Result)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;dashed=1;dashPattern=2 3;" edge="1" parent="1" source="mJHqv84FvjhZxE39gfbW-3" target="mJHqv84FvjhZxE39gfbW-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1171" y="1102" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mJHqv84FvjhZxE39gfbW-24" value="提示密码修改成功或失败信息(Prompt Password Modification Success or Failure Message)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;dashed=1;dashPattern=2 3;" edge="1" parent="1" source="mJHqv84FvjhZxE39gfbW-2" target="mJHqv84FvjhZxE39gfbW-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="474" y="1156" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
