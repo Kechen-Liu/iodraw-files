@@ -56,12 +56,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mJHqv84FvjhZxE39gfbW-13" value="(Front-End Password Format Verification)" style="curved=1;endArrow=none;rounded=0;" edge="1" parent="1" source="mJHqv84FvjhZxE39gfbW-2" target="mJHqv84FvjhZxE39gfbW-2">
-          <mxGeometry x="-0.1242" y="11" relative="1" as="geometry">
+          <mxGeometry x="-0.3777" y="21" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="884" y="321" />
               <mxPoint x="884" y="351" />
             </Array>
-            <mxPoint as="offset" />
+            <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mJHqv84FvjhZxE39gfbW-14" value="(&quot;Prompt Password Format Error (if not passed)&quot;)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;dashed=1;dashPattern=2 3;" edge="1" parent="1" target="mJHqv84FvjhZxE39gfbW-1">
