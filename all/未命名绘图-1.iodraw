@@ -56,17 +56,18 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mJHqv84FvjhZxE39gfbW-13" value="(Front-End Password Format Verification)" style="curved=1;endArrow=none;rounded=0;" edge="1" parent="1" source="mJHqv84FvjhZxE39gfbW-2" target="mJHqv84FvjhZxE39gfbW-2">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="0.0013" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="884" y="321" />
               <mxPoint x="884" y="351" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mJHqv84FvjhZxE39gfbW-14" value="(&quot;Prompt Password Format Error (if not passed)&quot;)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;dashed=1;dashPattern=2 3;" edge="1" parent="1" target="mJHqv84FvjhZxE39gfbW-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-            <mxPoint x="530" y="450" as="sourcePoint" />
+            <mxPoint x="510" y="450" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mJHqv84FvjhZxE39gfbW-15" value="发送密码修改请求 (Send Password Modification Request)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;" edge="1" parent="1" source="mJHqv84FvjhZxE39gfbW-2" target="mJHqv84FvjhZxE39gfbW-3">
