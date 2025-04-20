@@ -17,10 +17,10 @@
           <mxGeometry x="1847" y="20" width="150" height="1251" as="geometry" />
         </mxCell>
         <mxCell id="mJHqv84FvjhZxE39gfbW-5" value="alt" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=30" vertex="1" parent="1">
-          <mxGeometry x="84" y="371" width="760" height="101" as="geometry" />
+          <mxGeometry x="84" y="371" width="486" height="101" as="geometry" />
         </mxCell>
         <mxCell id="mJHqv84FvjhZxE39gfbW-6" value="Password format error" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="mJHqv84FvjhZxE39gfbW-5">
-          <mxGeometry x="30" width="730" height="20" as="geometry" />
+          <mxGeometry x="19.18421052631579" width="466.8157894736842" height="20" as="geometry" />
         </mxCell>
         <mxCell id="mJHqv84FvjhZxE39gfbW-7" value="alt" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=30" vertex="1" parent="1">
           <mxGeometry x="84" y="728" width="1849" height="448" as="geometry" />
@@ -65,10 +65,8 @@
         </mxCell>
         <mxCell id="mJHqv84FvjhZxE39gfbW-14" value="(&quot;Prompt Password Format Error (if not passed)&quot;)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;dashed=1;dashPattern=2 3;" edge="1" parent="1" target="mJHqv84FvjhZxE39gfbW-1">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="510" y="452" />
-            </Array>
-            <mxPoint x="550" y="450" as="sourcePoint" />
+            <Array as="points" />
+            <mxPoint x="530" y="450" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mJHqv84FvjhZxE39gfbW-15" value="发送密码修改请求 (Send Password Modification Request)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;" edge="1" parent="1" source="mJHqv84FvjhZxE39gfbW-2" target="mJHqv84FvjhZxE39gfbW-3">
