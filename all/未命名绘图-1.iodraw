@@ -19,7 +19,7 @@
         <mxCell id="mJHqv84FvjhZxE39gfbW-5" value="alt" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=30" vertex="1" parent="1">
           <mxGeometry x="84" y="371" width="760" height="101" as="geometry" />
         </mxCell>
-        <mxCell id="mJHqv84FvjhZxE39gfbW-6" value="[密码格式错误]" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="mJHqv84FvjhZxE39gfbW-5">
+        <mxCell id="mJHqv84FvjhZxE39gfbW-6" value="Password format error" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="mJHqv84FvjhZxE39gfbW-5">
           <mxGeometry x="30" width="730" height="20" as="geometry" />
         </mxCell>
         <mxCell id="mJHqv84FvjhZxE39gfbW-7" value="alt" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=30" vertex="1" parent="1">
@@ -53,7 +53,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="mJHqv84FvjhZxE39gfbW-13" value="前端验证密码格式(Front-End Password Format Verification)" style="curved=1;endArrow=none;rounded=0;" edge="1" parent="1" source="mJHqv84FvjhZxE39gfbW-2" target="mJHqv84FvjhZxE39gfbW-2">
+        <mxCell id="mJHqv84FvjhZxE39gfbW-13" value="(Front-End Password Format Verification)" style="curved=1;endArrow=none;rounded=0;" edge="1" parent="1" source="mJHqv84FvjhZxE39gfbW-2" target="mJHqv84FvjhZxE39gfbW-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="884" y="321" />
