@@ -47,16 +47,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="mJHqv84FvjhZxE39gfbW-12" value="(Enter Old Password, New Password, Confirm New Password)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;" edge="1" parent="1" source="mJHqv84FvjhZxE39gfbW-1" target="mJHqv84FvjhZxE39gfbW-2">
+        <mxCell id="mJHqv84FvjhZxE39gfbW-12" value="(Enter Old Password, New Password, Confirm New Password)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;" edge="1" parent="1" source="mJHqv84FvjhZxE39gfbW-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="474" y="267" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="mJHqv84FvjhZxE39gfbW-25" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mJHqv84FvjhZxE39gfbW-12">
-          <mxGeometry x="0.6843" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="580" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mJHqv84FvjhZxE39gfbW-13" value="(Front-End Password Format Verification)" style="curved=1;endArrow=none;rounded=0;" edge="1" parent="1" source="mJHqv84FvjhZxE39gfbW-2" target="mJHqv84FvjhZxE39gfbW-2">
