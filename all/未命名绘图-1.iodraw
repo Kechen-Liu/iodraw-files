@@ -31,7 +31,7 @@
         <mxCell id="mJHqv84FvjhZxE39gfbW-9" value="[原密码正确]" style="shape=line;dashed=1;whiteSpace=wrap;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;strokeColor=#B3B3B3;" vertex="1" parent="mJHqv84FvjhZxE39gfbW-7">
           <mxGeometry y="106" width="1849" height="3" as="geometry" />
         </mxCell>
-        <mxCell id="mJHqv84FvjhZxE39gfbW-10" value="发起修改密码请求(Initiate Password Modification Request)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;" edge="1" parent="1" source="mJHqv84FvjhZxE39gfbW-1" target="mJHqv84FvjhZxE39gfbW-2">
+        <mxCell id="mJHqv84FvjhZxE39gfbW-10" value="(Initiate Password Modification Request)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;" edge="1" parent="1" source="mJHqv84FvjhZxE39gfbW-1" target="mJHqv84FvjhZxE39gfbW-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="474" y="129" />
