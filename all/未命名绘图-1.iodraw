@@ -52,7 +52,7 @@
             <Array as="points">
               <mxPoint x="500" y="260" />
             </Array>
-            <mxPoint x="540" y="260" as="targetPoint" />
+            <mxPoint x="500" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mJHqv84FvjhZxE39gfbW-13" value="(Front-End Password Format Verification)" style="curved=1;endArrow=none;rounded=0;" edge="1" parent="1" source="mJHqv84FvjhZxE39gfbW-2" target="mJHqv84FvjhZxE39gfbW-2">
