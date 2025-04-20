@@ -38,7 +38,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="mJHqv84FvjhZxE39gfbW-11" value="展示修改密码界面 (Display Password Modification Interface)" style="curved=1;endArrow=none;rounded=0;" edge="1" parent="1" source="mJHqv84FvjhZxE39gfbW-2" target="mJHqv84FvjhZxE39gfbW-2">
+        <mxCell id="mJHqv84FvjhZxE39gfbW-11" value=" (Display Password Modification Interface)" style="curved=1;endArrow=none;rounded=0;" edge="1" parent="1" source="mJHqv84FvjhZxE39gfbW-2" target="mJHqv84FvjhZxE39gfbW-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="884" y="183" />
