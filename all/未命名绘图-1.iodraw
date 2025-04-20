@@ -56,7 +56,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mJHqv84FvjhZxE39gfbW-13" value="(Front-End Password Format Verification)" style="curved=1;endArrow=none;rounded=0;" edge="1" parent="1" source="mJHqv84FvjhZxE39gfbW-2" target="mJHqv84FvjhZxE39gfbW-2">
-          <mxGeometry x="-0.3777" y="21" relative="1" as="geometry">
+          <mxGeometry x="-0.327" y="41" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="884" y="321" />
               <mxPoint x="884" y="351" />
