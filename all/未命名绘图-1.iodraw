@@ -46,7 +46,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="mJHqv84FvjhZxE39gfbW-12" value="输入原密码、新密码、确认新密码(Enter Old Password, New Password, Confirm New Password)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;" edge="1" parent="1" source="mJHqv84FvjhZxE39gfbW-1" target="mJHqv84FvjhZxE39gfbW-2">
+        <mxCell id="mJHqv84FvjhZxE39gfbW-12" value="(Enter Old Password, New Password, Confirm New Password)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=none;" edge="1" parent="1" source="mJHqv84FvjhZxE39gfbW-1" target="mJHqv84FvjhZxE39gfbW-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="474" y="267" />
