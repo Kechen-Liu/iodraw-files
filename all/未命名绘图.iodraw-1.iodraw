@@ -28,9 +28,6 @@
         <mxCell id="UOVjf3VlmDLXHIddpCGc-9" value="Redirect user to profile page" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="323" y="1389" width="227" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="UOVjf3VlmDLXHIddpCGc-10" value="End" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="393.5" y="1510" width="86" height="48" as="geometry" />
-        </mxCell>
         <mxCell id="UOVjf3VlmDLXHIddpCGc-11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="UOVjf3VlmDLXHIddpCGc-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
@@ -96,13 +93,17 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UOVjf3VlmDLXHIddpCGc-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.51;entryY=0;rounded=0;" edge="1" parent="1" source="UOVjf3VlmDLXHIddpCGc-9" target="UOVjf3VlmDLXHIddpCGc-10">
+        <mxCell id="UOVjf3VlmDLXHIddpCGc-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.51;entryY=0;rounded=0;" edge="1" parent="1" source="UOVjf3VlmDLXHIddpCGc-9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="437.3599999999999" y="1510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UOVjf3VlmDLXHIddpCGc-22" value="" style="ellipse;fillColor=strokeColor;html=1;" vertex="1" parent="1">
           <mxGeometry x="237" y="40" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UOVjf3VlmDLXHIddpCGc-23" value="" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" vertex="1" parent="1">
+          <mxGeometry x="422" y="1510" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
