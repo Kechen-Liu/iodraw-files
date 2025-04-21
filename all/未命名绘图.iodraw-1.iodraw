@@ -101,6 +101,9 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="UOVjf3VlmDLXHIddpCGc-22" value="" style="ellipse;fillColor=strokeColor;html=1;" vertex="1" parent="1">
+          <mxGeometry x="237" y="40" width="30" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
